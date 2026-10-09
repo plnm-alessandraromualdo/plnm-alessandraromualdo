@@ -1,6 +1,8 @@
 <h1 align="center">Olá, eu sou a Ale 👋</h1>
 <h3 align="center">Desenvolvedora Frontend | Defensora Oficial do Angular | Atualmente Refém do React 🥲</h3>
 
+<img src="./Gemini_Generated_Image_y3ruqpy3ruqpy3ru.jpg" />
+
 <p align="center">
   <img src="https://img.shields.io/badge/Angular-Arquitetura%20de%20verdade-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-Desde%20o%20dia%201-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -90,6 +92,8 @@ Vezes que falei "no Angular isso já vem":     ███████████
 </p>
 
 ---
+
+
 
 ## 🎭 Plot twist
 
